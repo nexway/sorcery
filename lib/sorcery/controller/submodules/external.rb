@@ -19,6 +19,7 @@ module Sorcery
           require 'sorcery/providers/google'
           require 'sorcery/providers/jira'
           require 'sorcery/providers/salesforce'
+          require 'sorcery/providers/salesforcesandbox'
           require 'sorcery/providers/paypal'
           require 'sorcery/providers/slack'
           require 'sorcery/providers/wechat'
